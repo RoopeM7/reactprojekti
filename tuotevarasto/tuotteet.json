@@ -1,0 +1,86 @@
+[
+  {
+    "tuoteID": 4,
+    "hinta": 25,
+    "tuotenimi": "MaxEffect 2000",
+    "tyyppi": "pesukone",
+    "tuotemäärä": 15,
+    "valmistaja": "Koje oy",
+    "värit": ["musta", "keltainen", "oranssi"],
+    "lisätiedot": {
+      "kommentti": "vanha malli",
+      "malli": "XL",
+      "energialuokka": "A+"
+    }
+  },
+  {
+    "tuoteID": 1,
+    "hinta": 123,
+    "tuotenimi": "XZL 34",
+    "tyyppi": "tomutin",
+    "tuotemäärä": 5,
+    "valmistaja": "Hilavitkutin Oy",
+    "värit": ["oranssi", "vihreä", "valkoinen"],
+    "lisätiedot": {
+      "kommentti": "ei kommentteja",
+      "malli": "VIP",
+      "energialuokka": "A"
+    }
+  },
+  {
+    "tuoteID": 6,
+    "hinta": 200,
+    "tuotenimi": "Luuri S43",
+    "tyyppi": "jääkaappi",
+    "tuotemäärä": 100,
+    "valmistaja": "Leila Hökki oy",
+    "värit": ["oranssi", "sininen", "punainen"],
+    "lisätiedot": {
+      "kommentti": "-",
+      "malli": "silver",
+      "energialuokka": "E"
+    }
+  },
+  {
+    "tuoteID": 3,
+    "hinta": 10,
+    "tuotenimi": "Future 2025",
+    "tyyppi": "älypuhelin",
+    "tuotemäärä": 1,
+    "valmistaja": "Hilavitkutin Oy",
+    "värit": ["valkoinen", "musta", "keltainen"],
+    "lisätiedot": {
+      "kommentti": "huippulaite",
+      "malli": "GT",
+      "energialuokka": "B"
+    }
+  },
+  {
+    "tuoteID": 7,
+    "hinta": 300,
+    "tuotenimi": "Silo delux",
+    "tyyppi": "jääkaappi",
+    "tuotemäärä": 10,
+    "valmistaja": "Vempain oy",
+    "värit": ["punainen", "keltainen"],
+    "lisätiedot": {
+      "kommentti": "ei huomauttamista",
+      "malli": "gold",
+      "energialuokka": "A++"
+    }
+  },
+  {
+    "tuoteID": 2,
+    "hinta": 123,
+    "tuotenimi": "Frost XL",
+    "tyyppi": "imuri",
+    "tuotemäärä": 7,
+    "valmistaja": "Hilavitkutin Oy",
+    "värit": ["valkoinen", "musta", "keltainen"],
+    "lisätiedot": {
+      "kommentti": "laadukas",
+      "malli": "chrome",
+      "energialuokka": "C"
+    }
+  }
+]

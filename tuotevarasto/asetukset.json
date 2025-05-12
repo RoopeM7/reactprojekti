@@ -1,0 +1,6 @@
+{
+  "perusavain": "tuoteID",
+  "hakuavaimet": ["tuoteID", "valmistaja", "hinta"],
+  "resurssi": "tuote",
+  "numerokentät": ["tuoteID", "hinta", "tuotemäärä"]
+}

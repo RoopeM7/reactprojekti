@@ -1,0 +1,33 @@
+.TuoteKohta {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 24px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.TuoteKohta > div {
+  background-color: #f9f9f9;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
+}
+.otsikko {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 16px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+.TuoteKohta h2 {
+  margin-top: 0;
+}
+
+.TuoteKohta button {
+  margin-top: 8px;
+}
